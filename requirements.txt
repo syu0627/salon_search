@@ -1,0 +1,4 @@
+.llljkl
+streamlit
+pandas
+plotly
